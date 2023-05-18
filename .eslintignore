@@ -1,0 +1,7 @@
+build/
+scripts/
+config/
+public/
+node_modules/
+
+src/react-app-env.d.ts

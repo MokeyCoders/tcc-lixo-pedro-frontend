@@ -1,0 +1,10 @@
+.menu {
+  flex: 1;
+
+  :global {
+    .ant-menu-item {
+      display: flex;
+      align-items: center;
+    }
+  }
+}
